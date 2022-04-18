@@ -1,13 +1,13 @@
 # 30 Days of Go: Day 1
 ## Introduction
-I have decided to take part in a challenge to learn Golang in the next 30 days. I found a Go hackathon and thought this is the perfect opportunity because I have wanted to learn it for a while now. I have decided to split this learning up in a couple of ways. The idea is to build an application for the hackathon. My current app idea is a citizen science API. This API will allow users to upload photos of animals such as birds or insects.
+I have decided to take part in a challenge to learn Golang in the next 30 days. I found a [Go hackathon](https://gohack.devpost.com) and thought this is the perfect opportunity because I have wanted to learn it for a while now. I have decided to split this learning up in a couple of ways. The idea is to build an application for the hackathon. My current app idea is a citizen science API. This API will allow users to upload photos of animals such as birds or insects.
 
 I have split my learnings into the following categories:
-- Weeks 1 & 2: Learn the syntax and basics of Golang and do the gophercizes
+- Weeks 1 & 2: Learn the syntax and basics of Golang and do the [gophercises](https://gophercises.com/)
 - Week 3 & 4: Build out the API
 
 ## Golang syntax
-This information is referenced Golang documentation and especially Go by example.
+This information is referenced Golang documentation and especially [Go by example](https://gobyexample.com).
 
 ### Variables
 - Golang's variables are explicitly declared like C#, Java

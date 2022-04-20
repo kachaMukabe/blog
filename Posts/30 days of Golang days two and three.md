@@ -1,4 +1,4 @@
-# 30 Days of Go: Day 2/3
+# 30 Days of Go: Day 2 and 3
 
 ## How it's going
 
